@@ -11,4 +11,10 @@ or the properties of neutrinos.[2]
 Some GUTs, such as the Pati–Salam model, predict the existence of magnetic monopoles.
 
 While GUTs might be expected to offer simplicity over the complications present in the Standard Model, realistic models remain complicated because they need to introduce additional fields and interactions, or even additional dimensions of space, in order to reproduce observed fermion masses and mixing angles. This difficulty, in turn, may be related to the existence[clarification needed] of family symmetries beyond the conventional GUT models. Due to this and the lack of any observed effect of grand unification so far, there is no generally accepted GUT model.
-print tostring(pi,.. wikiartofGUFT)
+print tostring(pi,.. wikiartofGUFT,..agnestachyon)
+
+
+
+agnestachyon = A tachyon (/ˈtækiɒn/) or tachyonic particle is a hypothetical particle that always travels faster than light. Physicists posit that faster-than-light particles cannot exist because they are inconsistent with the known laws of physics.[1][2] If such particles did exist they perhaps could be used to send signals faster than light and into the past. According to the theory of relativity this would violate causality, leading to logical paradoxes such as the grandfather paradox.[1] Tachyons would exhibit the unusual property of increasing in speed as their energy decreases, and would require infinite energy to slow to the speed of light. No verifiable experimental evidence has been found to support the existence of such particles.
+
+The term "tachyon" derives from a 1967 paper by Gerald Feinberg about excitations of a quantum field with imaginary mass. Subsequent work has shown the excitations are not faster than light particles but particle physicists still discuss "tachyons", e.g. in tachyon condensation, when they are referring to tachyonic fields.
