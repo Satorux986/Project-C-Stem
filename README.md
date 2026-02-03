@@ -11,10 +11,22 @@ or the properties of neutrinos.[2]
 Some GUTs, such as the Pati–Salam model, predict the existence of magnetic monopoles.
 
 While GUTs might be expected to offer simplicity over the complications present in the Standard Model, realistic models remain complicated because they need to introduce additional fields and interactions, or even additional dimensions of space, in order to reproduce observed fermion masses and mixing angles. This difficulty, in turn, may be related to the existence[clarification needed] of family symmetries beyond the conventional GUT models. Due to this and the lack of any observed effect of grand unification so far, there is no generally accepted GUT model.
-print tostring(pi,.. wikiartofGUFT,..agnestachyon)
+print tostring(pi,.. wikiartofGUFT,..agnestachyon,..Thequeenofloserseverywhere)
 
 
 
 agnestachyon = A tachyon (/ˈtækiɒn/) or tachyonic particle is a hypothetical particle that always travels faster than light. Physicists posit that faster-than-light particles cannot exist because they are inconsistent with the known laws of physics.[1][2] If such particles did exist they perhaps could be used to send signals faster than light and into the past. According to the theory of relativity this would violate causality, leading to logical paradoxes such as the grandfather paradox.[1] Tachyons would exhibit the unusual property of increasing in speed as their energy decreases, and would require infinite energy to slow to the speed of light. No verifiable experimental evidence has been found to support the existence of such particles.
 
 The term "tachyon" derives from a 1967 paper by Gerald Feinberg about excitations of a quantum field with imaginary mass. Subsequent work has shown the excitations are not faster than light particles but particle physicists still discuss "tachyons", e.g. in tachyon condensation, when they are referring to tachyonic fields.
+
+Thequeenofloserseverywhere = At her debut on November 17, 1998, at the Kōchi Racetrack, Haru Urara lost, placing fifth—and last.[6] Over the next four-and-a-half years, she would compete once or twice every month without winning.[7]
+
+In June 2003, after garnering her 80th consecutive loss, the story was picked up by the national Japanese media, making "Haru Urara" a household name.[7] She quickly became very popular in Japan, and was called "the shining star of losers everywhere" (負け組の星, makegumi no hoshi), for continuing to run, despite her losing streak.[8] This surge in popularity was dubbed "The Haru Urara Boom",[9] and news about Haru Urara reached the international community.[10]
+
+During the boom, Haru Urara betting tickets began to be used as o-mamori, particularly for protection against traffic accidents: the word ataranai (当たらない) in Japanese can mean both "to lose a bet" and "to avoid being struck", so it was said that a Haru Urara betting ticket could protect the owner's car from being hit.[11] In September 2003, the Kōchi Prefecture Horse Racing Association introduced a service wherein they would stamp the word on any betting ticket related to Haru Urara. O-mamori were also created from mane and tail hairs that were said to have fallen out during brushing, but production was soon halted, due to concerns expressed by animal welfare groups.[12] They were instead replaced with wooden plaques.[13]
+
+At a race held on March 22, 2004, during the peak of her popularity, more than 13,000 spectators packed the Kochi Racetrack,[14] 3,000 of whom had gathered outside before the gates opened, forcing the track to open 30 minutes earlier than scheduled.[15] Some people waited in line for up to five hours to buy tickets at the "Haru Urara Commemorative Ticket Booth", which was established especially for the event.[10] Fans bet a grand total of ¥121,751,200 on a Haru Urara victory, an impressive sum, particularly for a horse that had not won once in more than 100 attempts.[16] Despite being ridden by Japan's premier jockey, Yutaka Take, Haru Urara earned her 106th consecutive loss, placing 10th among 11 horses running.[17]
+
+Her name means "Glorious Spring" or "Gentle Spring".[6][18] Numerous products using Haru Urara's name or image have been produced, including stuffed toys, key rings, mobile phone straps, stickers, stamps, train tickets, rice, shochu, hats, T-shirts, and bras. A number of books and songs, as well as a film, were also written about Haru Urara during the boom period.[15] The Japanese Prime Minister Junichiro Koizumi said "I'd like to see Haru Urara win, even just once. The horse is a good example of not giving up in the face of defeat."[6]
+
+Haru Urara ran her last race in August 2004 and retired with a record of 0 wins and 113 losses. 
