@@ -11,4 +11,4 @@ or the properties of neutrinos.[2]
 Some GUTs, such as the Pati–Salam model, predict the existence of magnetic monopoles.
 
 While GUTs might be expected to offer simplicity over the complications present in the Standard Model, realistic models remain complicated because they need to introduce additional fields and interactions, or even additional dimensions of space, in order to reproduce observed fermion masses and mixing angles. This difficulty, in turn, may be related to the existence[clarification needed] of family symmetries beyond the conventional GUT models. Due to this and the lack of any observed effect of grand unification so far, there is no generally accepted GUT model.
-print tostring(pi, wikiartofGUFT)
+print tostring(pi,.. wikiartofGUFT)
