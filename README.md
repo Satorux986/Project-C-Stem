@@ -30,3 +30,4 @@ At a race held on March 22, 2004, during the peak of her popularity, more than 1
 Her name means "Glorious Spring" or "Gentle Spring".[6][18] Numerous products using Haru Urara's name or image have been produced, including stuffed toys, key rings, mobile phone straps, stickers, stamps, train tickets, rice, shochu, hats, T-shirts, and bras. A number of books and songs, as well as a film, were also written about Haru Urara during the boom period.[15] The Japanese Prime Minister Junichiro Koizumi said "I'd like to see Haru Urara win, even just once. The horse is a good example of not giving up in the face of defeat."[6]
 
 Haru Urara ran her last race in August 2004 and retired with a record of 0 wins and 113 losses. 
+
