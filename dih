@@ -1,0 +1,2 @@
+print("What is you name" .. name
+name = tostring(io.read())
